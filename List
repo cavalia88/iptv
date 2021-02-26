@@ -10,6 +10,18 @@ http://supersonictv.live:25461/903310/034806/22101?checkedby:iptvcat.com
 http://supersonictv.live:25461/903310/034806/22103?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",HGTV Canada
 http://evdibac.com:80/307200112733/307200112733/81364?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="",Discovery
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", Discovery Canada
+http://evdibac.com:80/307200112733/307200112733/81359?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", National Geographic
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", Animal Planet Foreign
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", Destination America
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", AXN Spanish
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bloomberg US
@@ -18,20 +30,6 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 http://mags.vip:2086/live/jav/jav123/64142.ts?checkedby:iptvcat.net
 #EXTINF:0 tvg-logo="" group-title="",CNBC
 http://mags.vip:2086/live/miriam/miriam123/349.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS (L)
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59276.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/252.ts
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
-http://mags.vip:2086/live/jav/jav123/252.ts
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL FHD 1080
-http://mags.vip:2086/live/miriam/miriam123/64112.ts
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL FHD 1080
-http://mags.vip:2086/live/jav/jav123/64112.ts
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS Channel HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/137016.ts
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Finance",Cheddar
