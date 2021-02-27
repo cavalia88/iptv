@@ -1,5 +1,7 @@
 #EXTINF:0 tvg-logo="" group-title="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-logo="" group-title="",Fox News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",HGTV 2
@@ -38,5 +40,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:0 tvg-logo="" group-title="China" tvg-ID="cgtn.info",CGTN English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0 tvg-logo="" group-title="",ABC News
-https://youtu.be/W1ilCy6XrmI
+#EXTINF:0 tvg-logo="" group-title="",ABC
+https://c.mjh.nz/101002210221/?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8?checkedby:iptvcat.com
+
