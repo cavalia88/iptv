@@ -6,8 +6,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",HGTV 2
 http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/13?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="" group-title="",HGTV Canada
-http://evdibac.com:80/307200112733/307200112733/81364?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",Discovery
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="", National Geographic
@@ -16,16 +14,18 @@ http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8?
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="", Destination America
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="" group-title="", AXN Spanish
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="" group-title="", KBS World
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="", Arirang 2
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:0 tvg-logo="" group-title="",CNBC
-http://mags.vip:2086/live/jav/jav123/64142.ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-logo="" group-title="",CNBC
-http://mags.vip:2086/live/miriam/miriam123/349.ts?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Finance",Cheddar
@@ -44,4 +44,131 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://c.mjh.nz/101002210221/?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-logo="" group-title="",FOX FAMILY HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",FOX HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",FOX MOVIES HD _VN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",FOX LIFE HD _VN
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-logo="" group-title="",TLC HD US
+http://latvonlive.com:33612/Llanos1/1234/664
+#EXTINF:0 tvg-logo="" group-title="",Travel Channel US
+http://latvonlive.com:33612/Llanos1/1234/359
+#EXTINF:0 tvg-logo="" group-title="",Discovery
+http://latvonlive.com:33612/Llanos1/1234/916
+#EXTINF:0 tvg-logo="" group-title="",History
+http://latvonlive.com:33612/Llanos1/1234/304
+#EXTINF:0 tvg-logo="" group-title="",HBO East HD US
+http://latvonlive.com:33612/Llanos1/1234/685
+#EXTINF:0 tvg-logo="" group-title="",HBO 2 East HD
+http://latvonlive.com:33612/Llanos1/1234/686
+#EXTINF:0 tvg-logo="" group-title="",HBO Comedy East HD US
+http://latvonlive.com:33612/Llanos1/1234/687
+#EXTINF:0 tvg-logo="" group-title="",HBO Family East HD US
+http://latvonlive.com:33612/Llanos1/1234/688
+#EXTINF:0 tvg-logo="" group-title="",HBO Signature East HD US
+http://latvonlive.com:33612/Llanos1/1234/690
+#EXTINF:0 tvg-logo="" group-title="",HBO Zone East HD US
+http://latvonlive.com:33612/Llanos1/1234/689
+#EXTINF:0 tvg-logo="" group-title="",BBC World News HD
+http://latvonlive.com:33612/Llanos1/1234/10
+#EXTINF:0 tvg-logo="" group-title="",Bloomberg TV
+http://latvonlive.com:33612/Llanos1/1234/5691
+#EXTINF:0 tvg-logo="" group-title="",CNBC HD
+http://latvonlive.com:33612/Llanos1/1234/274
+#EXTINF:0 tvg-logo="" group-title="",CNBC World HD
+http://latvonlive.com:33612/Llanos1/1234/497
+#EXTINF:0 tvg-logo="" group-title="",CNN HD US
+http://latvonlive.com:33612/Llanos1/1234/650
+#EXTINF:0 tvg-logo="" group-title="",CNN International HD
+http://latvonlive.com:33612/Llanos1/1234/652
+#EXTINF:0 tvg-logo="" group-title="",Fox Business HD
+http://latvonlive.com:33612/Llanos1/1234/272
+#EXTINF:0 tvg-logo="" group-title="",AXN Thai
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",RedHbo
+http://fdtvapps.xyz/channel/red.m3u8
+#EXTINF:0 tvg-logo="" group-title="",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="" group-title="",TVB Jade HD
+http://61.238.6.49:8000/bysid/1
+#EXTINF:0 tvg-logo="" group-title="",TVB Jade HD (Backup)
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="",J2
+http://61.238.6.49:8001/bysid/82
+#EXTINF:0 tvg-logo="" group-title="",Viu TV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="",A1
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:0 tvg-logo="" group-title="",RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:0 tvg-logo="" group-title="",KBS 1
+http://140.238.16.178:9876/stream/channelid/860060324?profile=pass
+#EXTINF:0 tvg-logo="" group-title="",KBS 2
+http://140.238.16.178:9876/stream/channelid/1531980965?profile=pass
+#EXTINF:0 tvg-logo="" group-title="",KOREA ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",Arirang Korea (아리랑 TV)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" ,KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" ,KBS World (Korean)
+http://hls222.dszbdq.cn/kbs.php?id=world
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" ,KBS Joy
+http://140.238.16.178:9876/stream/channelid/844092932
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" ,KBS Drama
+http://140.238.16.178:9876/stream/channelid/1763530638
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://www.kbsn.co.kr/images/ch_w.png" ,KBS W
+http://140.238.16.178:9876/stream/channelid/1940797738
+#EXTINF:0 tvg-logo="" group-title="",TV Chosun
+http://140.238.16.178:9876/stream/channelid/1963991592
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png" ,MBC Drama
+http://140.238.16.178:9876/stream/channelid/795214679
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png" ,MBC Every 1
+http://140.238.16.178:9876/stream/channelid/858401363
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_06.png" ,MBC On
+http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS
+http://140.238.16.178:9876/stream/channelid/495534696
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" ,SBS PLUS
+http://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" ,SBS Plus HD (SBS플러스)
+http://140.238.16.178:9876/stream/channelid/1434675793
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/skylife/72c273c990926163324.png" ,SBS F!L UHD
+http://58.229.38.125:9981/stream/channelid/1998526477
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png" ,SBS fun E
+http://140.238.16.178:9876/stream/channelid/2106609578
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" ,SBS MTV
+http://222.239.213.20:9981/stream/channelid/464614568
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" ,JTBC
+http://140.238.16.178:9876/stream/channelid/1778702694
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://images.jtbc.joins.com/jtbc2/logo.png" ,JTBC 2
+http://140.238.16.178:9876/stream/channelid/990220797
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/tvN.kr.png" ,tVN
+http://140.238.16.178:9876/stream/channelid/333743197
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" ,tvN MOVIES
+http://gg.gg/tvNMOVIES
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://www.asiauhd.com/comn/images/layout/logo.png" ,Asia UHD
+http://1.255.204.45:9981/stream/channelid/38708974
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a85828a190611234046.png" ,AsiaM UHD
+http://1.255.204.45:9981/stream/channelid/38708974
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5312d91980330152540.png" ,Dream TV UHD
+http://1.255.204.45:9981/stream/channelid/1911924344
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/6860f63780330152532.png" ,UMAX UHD
+http://1.255.204.45:9981/stream/channelid/481289914
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/UXN.kr.png" ,UXN UHD
+http://1.255.204.45:9981/stream/channelid/873335828
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/OCN.kr.png" ,OCN
+http://211.203.0.244:9981/stream/channelid/454479581
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnmovies.png" ,OCN Movies
+http://211.203.0.244:9981/stream/channelid/87207488
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnthrills.png" ,OCN Thrills
+http://211.203.0.244:9981/stream/channelid/1406402677
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/Screen.kr.png" ,Screen 4K
+http://211.203.0.244:9981/stream/channelid/1137398330
+#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" ,Channel A (채널A)
+http://140.238.16.178:9876/stream/channelid/498342416
