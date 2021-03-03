@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0 tvg-logo="" group-title="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Fox News
@@ -124,6 +126,8 @@ http://140.238.16.178:9876/stream/channelid/1763530638
 http://140.238.16.178:9876/stream/channelid/1940797738
 #EXTINF:0 tvg-logo="" group-title="",TV Chosun
 http://140.238.16.178:9876/stream/channelid/1963991592
+#EXTINF:-1 tvg-logo=http://img.imbc.com/commons/2018/image/main/mbc-logo.png group-title=KOREA, MBC
+http://140.238.16.178:9876/stream/channelid/1944642084?profile=pass
 #EXTINF:-1 group-title="韓國頻道" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png" ,MBC Drama
 http://140.238.16.178:9876/stream/channelid/795214679
 #EXTINF:-1 group-title="韓國頻道" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png" ,MBC Every 1
